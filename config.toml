@@ -1,0 +1,4 @@
+baseURL = 'http://www.gavialtech.com/'
+languageCode = 'pt-br'
+title = 'Gavial Tech'
+theme = "hello-friend-ng"
