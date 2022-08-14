@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gavial Tech</title>
-    <link>http://www.gavialtech.com/</link>
+    <link>https://www.gavialtech.com/</link>
     <description>Recent content on Gavial Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sat, 13 Aug 2022 22:32:37 -0300</lastBuildDate><atom:link href="http://www.gavialtech.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Aug 2022 22:32:37 -0300</lastBuildDate><atom:link href="https://www.gavialtech.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gavial Food</title>
-      <link>http://www.gavialtech.com/posts/my-first-post/</link>
+      <link>https://www.gavialtech.com/posts/my-first-post/</link>
       <pubDate>Sat, 13 Aug 2022 22:32:37 -0300</pubDate>
       
-      <guid>http://www.gavialtech.com/posts/my-first-post/</guid>
+      <guid>https://www.gavialtech.com/posts/my-first-post/</guid>
       <description>Gavial food É, nós sabemos, é um pessimo nome, mas no momento serve apenas distinguir o projeto de outros nossos.
 Att, equipe Gavial :D</description>
     </item>
